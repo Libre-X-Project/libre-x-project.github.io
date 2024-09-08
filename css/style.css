@@ -12,8 +12,8 @@ body {
 }
 
 header {
-  background-color: #dedede;
-  color: #282c34;
+  background-color: #282c34;
+  color: #dedede;
   padding: 1rem 0;
   text-align: center;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
