@@ -52,7 +52,7 @@ nav ul li a:hover {
 	background-color: #363636;
 }
 
-section {
+.card {
     margin-bottom: 3rem;
     padding: 20px;
     background-color: #1c1e22;
@@ -61,7 +61,7 @@ section {
     transition: transform 0.3s ease;
 }
 
-section:hover {
+.card:hover {
     transform: translateY(-5px);
 }
 
