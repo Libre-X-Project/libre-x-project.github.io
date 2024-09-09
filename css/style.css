@@ -16,6 +16,7 @@ body {
   padding: 60px;
   text-align: center;
   background: #1a1a1a;
+  color: #fefefe;
 }
 
 @keyframes slideIn {
