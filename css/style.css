@@ -27,31 +27,6 @@ header:logo {
 	animation: fadeIn 2s ease-in-out;
 }
 
-nav ul {
-	list-style: none;
-	display: flex;
-	justify-content: center;
-	margin-top: 10px;
-	animation: fadeIn 1.5s ease-in-out;
-}
-
-nav ul li {
-	margin: 0 20px;
-}
-
-nav ul li a {
-	color: #fefefe;
-	text-decoration: none;
-	font-weight: bold;
-	font-size: 1.1rem;
-	transition: color 0.3s ease;
-}
-
-nav ul li a:hover {
-	color: #fefefe;
-	background-color: #363636;
-}
-
 .card {
     margin-bottom: 3rem;
     padding: 20px;
